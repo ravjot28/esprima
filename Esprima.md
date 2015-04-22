@@ -1,0 +1,1 @@
+The documentation is moved to http://esprima.org/doc/index.html.

@@ -1,0 +1,1 @@
+This document is moved to http://esprima.org/doc/index.html#contribution.
